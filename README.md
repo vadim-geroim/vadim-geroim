@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vadim Geroim. I work as a front end developer.
+- 👋 Hi, my name is Vadim Geroim. I work as a front end web developer.
 - 👀 I’m interested in building web and mobile applications with Flutter, React and Vue JS. 
 - 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to collaborate on open source projects.
