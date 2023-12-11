@@ -1,35 +1,47 @@
-### 👨‍💻 About Me :
+### About Me :
+Hello! I'm Vadim Geroim, an accomplished web developer with a rich 8-year history in the tech industry, where I have honed my skills in both front and backend development. My career has largely been focused on e-commerce and educational technology sectors, particularly in online tutoring and test preparation platforms. A career highlight for me has been my contributions to educational projects, which have been instrumental in helping students enhance their skills and gain admission to US colleges.<br />
+<br />
+I am deeply passionate about designing user interfaces that are not only visually engaging but also intuitive and user-friendly, striving to create seamless online experiences that truly meet users' needs.<br />
+<br />
+Personally, I am very family-oriented and have a keen interest in the culinary arts. I enjoy preparing a variety of dishes, especially those from Iranian, Caucasian, and Turkish cuisines, reflecting my love for experiencing different cultures through their food.
 
-- 👋 Hi, my name is Vadim Geroim. I work as a front end web developer.
-- 🌱 I’m interested in building web and mobile applications with React. 
-- 💞️ I’m looking to collaborate on open source projects.
-- 📫 Please reach out to me if you have any interesting projects with JS frameworks.
+I'm looking forward to bringing my blend of technical skills and creative insights to your next project!<br />
+
+Please feel free to reach out to me at vgerom.job@gmail.com for any collaboration, project inquiries, or just to connect. I'm always open to discussing new opportunities and ideas.
 
 
-### :hammer_and_wrench: Languages and Tools :
+### Professional Skills
+Operating Systems: MacOS, Linux, Windows<br />
+Languages: JavaScript(ES6+), TypeScript, Ruby, C#<br />
+Frameworks: ReactJS, Ruby on Rails, .Net, NodeJS<br />
+Database: MongoDB, MS SQL Server, PostgreSQL<br />
+Deploy: CircleCI, AWS, TeamCity, CodeShip<br />
+Networking: TCP/IP, Routers, Hub<br />
+API Development: RESTful Services, GraphQL, AXIOS<br />
+Web Technologies: HTML5, CSS3, SASS/LESS, Web Service, MVC<br />
+Testing Tools: Cypress, Selenium WebDriver
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Ruby on Rails" alt="Ruby on Rails" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg"  title="LESS" alt="LESS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-</div>
+### Work Experience
+Software Developer, The Princeton Review, New York, NY					    
+February 2020 - Present<br />
+The Princeton Review is a company that offers test preparation, tutoring, and college admissions services.<br />
+Technologies Used: JavaScript, TypeScript, ReactJS, .Net, AWS, JotForms, AddSearch, Google Analytics.<br />
+
+Software Developer in Test, Moda Operandi, New York, NY<br />				
+October 2018 - February 2020<br />
+Moda Operandi revolutionizes luxury fashion retail by offering preorders for runway designs through online trunk shows, providing exclusive access to high-end designer collections.<br />
+Technologies Used: JavaScript, TypeScript, Ruby, ReactJS, Ruby on Rails, AWS, CircleCI.<br />
+
+Software Developer Analyst, Tutor.com, New York, NY								     
+May 2016 - October 2018<br />
+Tutor.com offers on-demand and scheduled online tutoring for students from fourth grade through college in over 40 subjects.<br />
+Technologies Used: JavaScript, TypeScript, C#, SQL, .Net, TeamCity, Bootstrap, HTML5, CSS3, Xamarin.
+
+### Education
+Full Stack Web Development Certificate, Columbia University, New York, NY<br />	
+June 2019 - December 2019<br />
+Gained proficiency in a range of technical skills including HTML5, CSS3, AWS, Ruby, Ruby on Rails, ReactJS, Postgresql, JavaScript, and JQuery.
+
 <!---
 vadim-geroim/vadim-geroim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
