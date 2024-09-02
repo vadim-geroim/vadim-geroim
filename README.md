@@ -1,5 +1,5 @@
 ## About Me
-Hello! I'm **Vadim Geroim**, an accomplished web developer with a rich 8-year history in the tech industry, where I have honed my skills in both front and backend development. My career has largely been focused on e-commerce and educational technology sectors, particularly in online tutoring and test preparation platforms. A career highlight for me has been my contributions to educational projects, which have been instrumental in helping students enhance their skills and gain admission to US colleges.
+Hello! I'm **Vadim Geroim**, an accomplished web developer with a rich 15-year history in the tech industry, where I have honed my skills in both front and backend development. My career has largely been focused on e-commerce and educational technology sectors, particularly in online tutoring and test preparation platforms. A career highlight for me has been my contributions to educational projects, which have been instrumental in helping students enhance their skills and gain admission to US colleges.
 
 I am deeply passionate about designing user interfaces that are not only visually engaging but also intuitive and user-friendly, striving to create seamless online experiences that truly meet users' needs.
 
