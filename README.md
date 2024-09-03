@@ -26,12 +26,12 @@ Please feel free to reach out to me at vgerom.job@gmail.com for any collaboratio
 - The Princeton Review is a company that offers test preparation, tutoring, and college admissions services.
 - **Technologies Used:** JavaScript, TypeScript, ReactJS, .Net, AWS, JotForms, AddSearch, Google Analytics.
 
-### Software Developer in Test, Moda Operandi, New York, NY
+### Software Developer, Moda Operandi, New York, NY
 *October 2018 - February 2020*
 - Moda Operandi revolutionizes luxury fashion retail by offering preorders for runway designs through online trunk shows.
 - **Technologies Used:** JavaScript, TypeScript, Ruby, ReactJS, Ruby on Rails, AWS, CircleCI.
 
-### Software Developer Analyst, Tutor.com, New York, NY
+### Software Developer in Test, Tutor.com, New York, NY
 *May 2016 - October 2018*
 - Tutor.com offers on-demand and scheduled online tutoring for students in over 40 subjects.
 - **Technologies Used:** JavaScript, TypeScript, C#, SQL, .Net, TeamCity, Bootstrap, HTML5, CSS3, Xamarin.
