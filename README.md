@@ -1,5 +1,5 @@
 ## About Me
-Hello! I'm **Vadim Geroim**, an accomplished web developer with a rich 15-year history in the tech industry, where I have honed my skills in both front and backend development. My career has largely been focused on e-commerce and educational technology sectors, particularly in online tutoring and test preparation platforms. A career highlight for me has been my contributions to educational projects, which have been instrumental in helping students enhance their skills and gain admission to US colleges.
+Hello! I'm **Vadim Geroim**, a senior software engineer with a rich 15-year history in the tech industry, where I have honed my skills in both front and backend development. My career has largely been focused on e-commerce and educational technology sectors, particularly in online tutoring and test preparation platforms. A career highlight for me has been my contributions to educational projects, which have been instrumental in helping students enhance their skills and gain admission to US colleges.
 
 I am deeply passionate about designing user interfaces that are not only visually engaging but also intuitive and user-friendly, striving to create seamless online experiences that truly meet users' needs.
 
@@ -21,26 +21,28 @@ Please feel free to reach out to me at vgerom.job@gmail.com for any collaboratio
 - **Testing Tools:** Cypress, Selenium WebDriver
 
 ## Work Experience
-### Software Developer, The Princeton Review, New York, NY
+### Senior Software Engineer, The Princeton Review, New York, NY
 *February 2020 - Present*
 - The Princeton Review is a company that offers test preparation, tutoring, and college admissions services.
 - **Technologies Used:** JavaScript, TypeScript, ReactJS, .Net, AWS, JotForms, AddSearch, Google Analytics.
 
-### Software Developer, Moda Operandi, New York, NY
+### Software Engineer, Moda Operandi, New York, NY
 *October 2018 - February 2020*
 - Moda Operandi revolutionizes luxury fashion retail by offering preorders for runway designs through online trunk shows.
 - **Technologies Used:** JavaScript, TypeScript, Ruby, ReactJS, Ruby on Rails, AWS, CircleCI.
 
-### Software Developer in Test, Tutor.com, New York, NY
+### Software Engineer, Tutor.com, New York, NY
 *May 2016 - October 2018*
 - Tutor.com offers on-demand and scheduled online tutoring for students in over 40 subjects.
 - **Technologies Used:** JavaScript, TypeScript, C#, SQL, .Net, TeamCity, Bootstrap, HTML5, CSS3, Xamarin.
 
 ## Education
-### Full Stack Web Development Certificate, Columbia University, New York, NY
-*June 2019 - December 2019*
-- Gained proficiency in HTML5, CSS3, AWS, Ruby, Ruby on Rails, ReactJS, PostgreSQL, JavaScript, JQuery.
+### Full-Stack Software Engineer Certificate, Columbia University, New York, NY
+*Grade: 2019*
+- **Technologies Used:** HTML5, CSS3, AWS, Ruby, Ruby on Rails, ReactJS, PostgreSQL, JavaScript, JQuery.
 
+### Master of Science in Computer Science, Kursk State University
+- **Coursework:** Programming Languages(Pascal, C++, Assembler, Lisp), Algorithms and Data Structures, Theory of Computation, Operating Systems, Database Management Systems, Computer Networks, Software Engineering, Computer Architecture, Discrete Mathematics, Compiler Design, Cybersecurity Fundamentals.
 
 <!---
 vadim-geroim/vadim-geroim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
